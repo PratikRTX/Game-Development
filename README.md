@@ -2,20 +2,36 @@
 
 Welcome to my Game Development repository!
 
-This repository contains my personal and educational
-game development projects, experiments, and learning resources.
+This repository contains my personal and educational game
+development projects, experiments, and learning resources.
 
-## 🛠️ Technologies
+## 🛠️ Technologies & Tools
+
 - Unity
 - C#
 - Blender
-- Game Development Tools
+- Visual Studio
+- Git & GitHub
 
-## 📂 Repository Structure
-- Unity — Unity game development projects
-- Blender — 3D models, animations, and assets
-- Learning — Tutorials, programming practice, and notes
-- Documentation — Project documentation
+## 📂 Repository Organization
+
+### 🎮 Unity
+Unity game development projects and experiments.
+
+### 🎨 Blender
+3D models, animations, and game assets.
+
+### 📚 Learning
+Tutorials, programming practice, and development notes.
+
+### 📄 Documentation
+Project documentation, technical reports, and resources.
 
 ## 👨‍💻 Developer
-PratikRTX
+
+**PratikRTX**
+
+B.Tech Computer Science Engineering Student
+
+Interested in software development, game development,
+3D animation, and creative technologies.
